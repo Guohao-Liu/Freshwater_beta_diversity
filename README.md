@@ -2,7 +2,7 @@
 ---
 ## Description
 This repository contains the data and R scripts used in the manuscript:
-**"Nutrient enrichment and land-use change homogenize species and trait composition in freshwaters"**.
+**"Widespread functional loss under freshwater eutrophication"**.
 
 **Review status:** 
 This repository is currently shared exclusively for peer review.
