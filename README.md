@@ -9,7 +9,7 @@ This repository is currently shared exclusively for peer review.
 
 ## File structure
 
-### `all_scripts/`
+### `000_scripts_all/`
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript.
 - `0.0_calculation_beta`    Functions of calculation of taxonomic and functional β-diversity metrics.
 
