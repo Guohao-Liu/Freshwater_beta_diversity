@@ -25,7 +25,7 @@ This directory contains all R scripts used for data processing, statistical anal
 - `3.3_plot_figure_S1-S3`  
   Scripts used to generate main-text and supplementary figures.
 
-### `input_file/`
+### `000_input_file/`
 - `dataset_var.csv`  
   Dataset-level explanatory variables used in the models.
 
